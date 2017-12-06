@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kdj6724/DesignPattern/ch1/stratege/src/duck.h
+iostream
+-
+
+/Users/kdj6724/DesignPattern/ch1/stratege/src/main.cpp
+mallard_duck.h
+/Users/kdj6724/DesignPattern/ch1/stratege/src/mallard_duck.h
+model_duck.h
+/Users/kdj6724/DesignPattern/ch1/stratege/src/model_duck.h
+
+/Users/kdj6724/DesignPattern/ch1/stratege/src/mallard_duck.h
+iostream
+-
+duck.h
+/Users/kdj6724/DesignPattern/ch1/stratege/src/duck.h
+
+/Users/kdj6724/DesignPattern/ch1/stratege/src/model_duck.h
+iostream
+-
+duck.h
+/Users/kdj6724/DesignPattern/ch1/stratege/src/duck.h
+

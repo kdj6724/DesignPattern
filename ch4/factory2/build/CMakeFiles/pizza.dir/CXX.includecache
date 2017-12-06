@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kdj6724/DesignPattern/ch4/factory/src/main.cpp
+pizza_store.h
+/Users/kdj6724/DesignPattern/ch4/factory/src/pizza_store.h
+
+/Users/kdj6724/DesignPattern/ch4/factory/src/pizza.h
+iostream
+-
+vector
+-
+string
+-
+
+/Users/kdj6724/DesignPattern/ch4/factory/src/pizza_store.h
+pizza.h
+/Users/kdj6724/DesignPattern/ch4/factory/src/pizza.h
+
