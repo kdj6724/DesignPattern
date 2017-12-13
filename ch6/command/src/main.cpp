@@ -1,6 +1,5 @@
 
-#include "simple_remote.h"
-#include "vendor.h"
+#include "receiver.h"
 #include "command.h"
 
 int main(void) {
